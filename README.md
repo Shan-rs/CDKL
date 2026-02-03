@@ -64,7 +64,11 @@ Run inference on hazy images using the trained student network.
     ```bash
     python test.py
     ```
+## 📂 Pre-trained Models
 
+You can download the pre-trained checkpoints (T-Net and S-Net) from the following Google Drive link:
+- [Google Drive Link](https://drive.google.com/drive/folders/1IJX3eCpUb7C_13rx3RZIbISw1cjno1L_?usp=drive_link)
+  
 ## 📂 Configuration Details
 
 Most hyperparameters and paths are managed in [config.py](file:///home/user/H/ObjectDetection2023_revised/github_vision/config.py):
