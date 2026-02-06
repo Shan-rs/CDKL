@@ -87,4 +87,4 @@ Most hyperparameters and paths are managed in [config.py](file:///home/user/H/Ob
 - Data loading logic for matching hazy (`_1.jpg`) and clear images is handled in the custom dataset classes.
 
 ## 📄 Publication
-This work is currently under review/submission at **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**.
+This work is currently under review at **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**.
